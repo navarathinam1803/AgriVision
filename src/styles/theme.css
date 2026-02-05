@@ -1,0 +1,4 @@
+:root { --primary: #030213; --radius: 0.625rem; }
+@layer base {
+  body { font-family: sans-serif; background-color: #f8fafc; color: #0f172a; }
+}
